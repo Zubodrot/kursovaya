@@ -57,7 +57,7 @@ public class SimpleGUI extends  JFrame {
 
 
     public SimpleGUI(){
-        super("Программа для продажи билетов в театр. Выберите пожалуйста жанр.");
+        super("Программа для продажи билетов в театр. Выберите пожалуйста жанр.                                      Чумаков Д. М. ИСБО-10-16");
         this.setSize(1800,1000);
 
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
