@@ -993,7 +993,7 @@ public class SimpleGUI extends  JFrame {
                 }
         }
 
-        if ((nedo ==1) & (den !=1)){
+        if ((romeo ==1) & (den !=1)){
             for(int i=  0; i < 10; i++)
                 for(int j = 1; j < 10; j++){
                     seatez[i][j].setVisible(true);
